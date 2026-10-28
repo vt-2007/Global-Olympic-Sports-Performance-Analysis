@@ -25,6 +25,16 @@ The project transforms Olympic data into meaningful visual insights, helping use
 - **Microsoft Excel / CSV** — Dataset preparation and data handling
 - **Data Visualization** — Charts, graphs, comparisons, and analytical insights
 
+## 📂 Dataset
+
+This project uses the **120 Years of Olympic History: Athletes and Results** dataset from Kaggle.
+
+- **Source:** [120 Years of Olympic History — Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+- **Dataset Contents:** Historical Olympic athlete records, participating countries, sports, events, and medal results.
+- **Purpose:** To analyze Olympic medal distributions, compare country-wise performance, and explore participation and performance trends across Olympic editions.
+
+
+
 ## 📊 Key Features
 
 - **Medal Analysis:** Visual comparison of Gold, Silver, and Bronze medals.
